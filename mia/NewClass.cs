@@ -8,5 +8,6 @@ namespace mia
 {
     class NewClass
     {
+        //nemoj samnom da jedes..
     }
 }
