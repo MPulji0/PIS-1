@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace mia
 {
-    class NewClass
+   class NewClass
     {
+        void method()
+        {
+
+        }
     }
 }
