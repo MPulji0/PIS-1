@@ -10,7 +10,7 @@ namespace mia
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Di si);
+            Console.WriteLine("Di si");
         }
     }
 }
